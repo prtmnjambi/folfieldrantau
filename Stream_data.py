@@ -23,7 +23,7 @@ def play_alarm():
 
 # Web Title with style
 st.markdown(
-    "<h1 style='text-align: center; color: #FF5733;'>PERTAMINA FIELD RANTAUWW</h1>",
+    "<h1 style='text-align: center; color: #FF5733;'>PERTAMINA FIELD RANTAUWWJJJ</h1>",
     unsafe_allow_html=True,
 )
 
